@@ -89,9 +89,7 @@ HTML
 
 </body>
 </html>
-
-CSS
-
+/* CSS */
 #body_text{
     font-family: 'Red Hat Display', sans-serif;
     /* font-weight: bolder; */
